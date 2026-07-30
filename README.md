@@ -6,7 +6,7 @@ Cleanfolio is a portfolio template built with React. However, if you prefer a te
 
 [![Imgur](https://imgur.com/FwDMNEM.gif)](https://rjshkhr.github.io/cleanfolio)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio)
+[Live Demo](https://maverickyumnam.github.io/)
 
 ## Instructions
 
@@ -78,6 +78,7 @@ to `"homepage": "https://yourusername.github.io"`.
 yarn build
 yarn deploy
 ```
+Built on the Cleanfolio template by rjshkhr
 
 ## License
 
