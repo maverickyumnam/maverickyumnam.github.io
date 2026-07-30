@@ -28,7 +28,7 @@ const projects = [
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com/maverickyumnam.github.io',
-    livePreview: 'https://maverickyumnam.github.io/',
+    livePreview: 'https://github.com/maverickyumnam/maverickyumnam.github.io',
     image: 'cleanfolio.png',
   },
   {
